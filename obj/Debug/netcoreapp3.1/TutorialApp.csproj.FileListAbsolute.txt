@@ -1,0 +1,11 @@
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.csprojAssemblyReference.cache
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.AssemblyInfoInputs.cache
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.AssemblyInfo.cs
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.exe
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.deps.json
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.runtimeconfig.json
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.runtimeconfig.dev.json
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.dll
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.pdb
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.dll
+C:\Users\hwils\Desktop\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.pdb
